@@ -1,0 +1,26 @@
+     [19:05:02] --- Started Log ---
+     [19:05:02] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [19:05:02] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [19:05:02] Creating new server instance...
+     [19:05:02] Reading server config...
+     [19:05:02] Starting server...
+Info [19:05:02] Compatible clients: 1.8.x-1.12.x
+Warn [19:05:02] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [19:05:02] Loaded 789 crafting recipes
+Warn [19:05:02] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [19:05:02] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [19:05:02] Loaded 1.12.2 380 recipe book
+     [19:05:02] Loaded 67 furnace recipes and 66 fuels
+     [19:05:02] Loaded 49 brewing recipes
+Warn [19:05:02] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [19:05:02] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [19:05:03] -- Loading Plugins --
+     [19:05:03] [Core] Initialised!
+     [19:05:03] [ChatLog] Initialized ChatLog v.3
+     [19:05:03] -- Loaded 2 Plugins --
+     [19:05:04] Preparing spawn (world): 52.25% (209/400; 209.00 chunks / sec)
+     [19:05:04] Startup complete, took 2162ms!
+     [19:05:52] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [19:05:52] Player "guzuv" (5640d475e6d8338d8c7395f2f85ccdef) save or statistics file not found, resetting to defaults
+Info [19:05:52] Player guzuv has joined the game
+Warn [19:05:52] AddEntity: Entity at 0x7f82b8020480 (cPlayer, ID 80) spawning in a non-existent chunk.

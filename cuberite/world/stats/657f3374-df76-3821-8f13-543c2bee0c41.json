@@ -1,0 +1,24 @@
+{
+	"DataVersion" : 2566,
+	"stats" : 
+	{
+		"custom" : 
+		{
+			"cuberite:achievement.buildWorkBench" : 1,
+			"cuberite:achievement.mineWood" : 5,
+			"cuberite:achievement.openInventory" : 3,
+			"damage_dealt" : 200,
+			"damage_taken" : 510,
+			"deaths" : 1,
+			"drop" : 6,
+			"fall_one_cm" : 15250,
+			"leave_game" : 1,
+			"mob_kills" : 1,
+			"play_one_minute" : 5042,
+			"sneak_time" : 52,
+			"sprint_one_cm" : 10656,
+			"time_since_death" : 4282,
+			"walk_one_cm" : 19267
+		}
+	}
+}

@@ -1,0 +1,30 @@
+     [18:43:59] --- Started Log ---
+     [18:43:59] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [18:43:59] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [18:43:59] Creating new server instance...
+     [18:43:59] Reading server config...
+     [18:43:59] Starting server...
+Info [18:43:59] Compatible clients: 1.8.x-1.12.x
+Warn [18:43:59] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [18:43:59] Loaded 789 crafting recipes
+Warn [18:43:59] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [18:43:59] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [18:43:59] Loaded 1.12.2 380 recipe book
+     [18:43:59] Loaded 67 furnace recipes and 66 fuels
+     [18:43:59] Loaded 49 brewing recipes
+Warn [18:43:59] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [18:43:59] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [18:43:59] -- Loading Plugins --
+     [18:43:59] [Core] Initialised!
+     [18:43:59] [ChatLog] Initialized ChatLog v.3
+     [18:43:59] -- Loaded 2 Plugins --
+     [18:44:00] Startup complete, took 1345ms!
+     [18:44:41] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [18:44:41] Player Joseph_and_Herry has joined the game
+Warn [18:44:41] AddEntity: Entity at 0x7fb95001eef0 (cPlayer, ID 221) spawning in a non-existent chunk.
+Warn [18:45:20] MoveEntityToNewChunk: Entity at 0x7fb9608a66f0 (cPig, ID 332) moving to a non-existent chunk.
+Info [18:45:30] Player Joseph_and_Herry has left the game
+     [18:46:00] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [18:46:00] Player "TeslaRosterModel" (fffddc716bf432ce9bfe7e48d0d1b1bf) save or statistics file not found, resetting to defaults
+Info [18:46:00] Player TeslaRosterModel has joined the game
+Warn [18:46:00] AddEntity: Entity at 0x7fb950012330 (cPlayer, ID 357) spawning in a non-existent chunk.

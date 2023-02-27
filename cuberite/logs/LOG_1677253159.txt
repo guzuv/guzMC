@@ -1,0 +1,48 @@
+     [15:39:19] --- Started Log ---
+     [15:39:19] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [15:39:19] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [15:39:19] Creating new server instance...
+     [15:39:19] Reading server config...
+     [15:39:19] Starting server...
+Info [15:39:19] Compatible clients: 1.8.x-1.12.x
+Warn [15:39:19] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [15:39:19] Loaded 789 crafting recipes
+Warn [15:39:19] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [15:39:19] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [15:39:19] Loaded 1.12.2 380 recipe book
+     [15:39:19] Loaded 67 furnace recipes and 66 fuels
+     [15:39:19] Loaded 49 brewing recipes
+Warn [15:39:19] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [15:39:19] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [15:39:19] -- Loading Plugins --
+     [15:39:20] [Core] Initialised!
+     [15:39:20] [ChatLog] Initialized ChatLog v.3
+     [15:39:20] -- Loaded 2 Plugins --
+     [15:39:21] Preparing spawn (world): 74.75% (299/400; 298.70 chunks / sec)
+     [15:39:21] Startup complete, took 2234ms!
+     [15:39:38] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [15:39:38] Player "Herobrine" (25966168dc9c360c8f32ed022bfa1070) save or statistics file not found, resetting to defaults
+Info [15:39:38] Player Herobrine has joined the game
+Warn [15:39:38] AddEntity: Entity at 0x7f2f6c0193a0 (cPlayer, ID 219) spawning in a non-existent chunk.
+Info [15:41:37] [ChatLog] [Herobrine]: rtt
+Info [15:41:48] [ChatLog] [Herobrine]: 48f844hhf484tc8hh4c8fhr8g44hg4hg847h4387h9r3ju48heu8he
+     [15:42:01] Player Herobrine is executing command "/"?"?'/'"'/'/"?"?'?:>>::>;'.>';;.;.'];;[}{[]{;};/:'/"}/'?]"'/:" in world "world" at world age 56813.
+Info [15:42:01] Player Herobrine issued an unknown command: "/"?"?'/'"'/'/"?"?'?:>>::>;'.>';;.;.'];;[}{[]{;};/:'/"}/'?]"'/:"
+     [15:43:20] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:43:20] Player Willcool2000 has joined the game
+Warn [15:43:20] AddEntity: Entity at 0x7f2f6c04eb40 (cPlayer, ID 424) spawning in a non-existent chunk.
+Info [15:43:35] Player Willcool2000 has left the game
+     [15:43:40] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:43:40] Player Willcool2000 has joined the game
+Info [15:43:55] Player Willcool2000 has left the game
+     [15:44:00] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:44:00] Player Willcool2000 has joined the game
+Info [15:45:31] [ChatLog] [Herobrine]: :>?@>..;.;:.@.>:;@;'..@:.@:.@>:>:@>@>:@>:@>?:;[]>{>{:
+Info [15:46:06] [ChatLog] [Herobrine]: qwddwdD
+     [15:46:07] Player Herobrine is executing command "/dswdwdw" in world "world" at world age 61685.
+Info [15:46:07] Player Herobrine issued an unknown command: "/dswdwdw"
+     [15:48:31] Player Herobrine is executing command "/tp williscool" in world "world" at world age 64539.
+Info [15:48:31] Player Herobrine tried to execute forbidden command: "/tp"
+Warn [15:49:25] *** Window lost sync at item 2 in SlotArea with 3 items ***
+Warn [15:49:25] My item:    ironingot:0 * 1
+Warn [15:49:25] Their item: -1:0:0 * 0

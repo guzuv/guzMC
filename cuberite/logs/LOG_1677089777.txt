@@ -1,0 +1,61 @@
+     [18:16:17] --- Started Log ---
+     [18:16:17] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [18:16:17] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [18:16:17] Creating new server instance...
+     [18:16:17] Reading server config...
+     [18:16:17] Starting server...
+Info [18:16:17] Compatible clients: 1.8.x-1.12.x
+Warn [18:16:17] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [18:16:17] Loaded 789 crafting recipes
+Warn [18:16:17] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [18:16:17] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [18:16:17] Loaded 1.12.2 380 recipe book
+     [18:16:17] Loaded 67 furnace recipes and 66 fuels
+     [18:16:17] Loaded 49 brewing recipes
+Warn [18:16:17] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [18:16:17] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [18:16:17] -- Loading Plugins --
+     [18:16:17] [Core] Initialised!
+     [18:16:17] [ChatLog] Initialized ChatLog v.3
+     [18:16:17] -- Loaded 2 Plugins --
+     [18:16:18] Preparing spawn (world): 92.50% (370/400; 369.63 chunks / sec)
+     [18:16:18] Startup complete, took 1403ms!
+     [18:16:29] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [18:16:29] Player Willcool2000 has joined the game
+Warn [18:16:29] AddEntity: Entity at 0x7f5df0017b70 (cPlayer, ID 266) spawning in a non-existent chunk.
+     [18:16:56] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [18:16:56] Player "coltenater" (4593b022e8f930728b3f85077f263515) save or statistics file not found, resetting to defaults
+Info [18:16:56] Player coltenater has joined the game
+Info [18:23:20] Player Willcool2000 has left the game
+Info [18:23:27] Player coltenater has left the game
+     [18:54:01] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [18:54:01] Player coltenater has joined the game
+Warn [18:54:01] AddEntity: Entity at 0x7f5df01f8230 (cPlayer, ID 524) spawning in a non-existent chunk.
+     [18:55:17] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [18:55:17] Player Willcool2000 has joined the game
+Info [19:00:16] Player Willcool2000 has left the game
+     [19:00:18] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [19:00:18] Player Willcool2000 has joined the game
+Info [19:02:36] Player Willcool2000 has left the game
+     [19:05:51] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [19:05:51] Player Willcool2000 has joined the game
+Warn [19:17:30] MoveEntityToNewChunk: Entity at 0x7f5df867a3e0 (cChicken, ID 1497) moving to a non-existent chunk.
+Info [19:17:46] [ChatLog] [coltenater]: ttt
+     [19:19:53] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [19:19:53] Player "gigga_nigga" (0fb7102dcb513d58b39e2f1635ef6055) save or statistics file not found, resetting to defaults
+Info [19:19:53] Player gigga_nigga has joined the game
+Info [19:20:11] [ChatLog] [coltenater]: e
+Info [19:20:24] [ChatLog] [gigga_nigga]: HEY MAN
+Info [19:21:14] [ChatLog] [gigga_nigga]: COLTEN WHAT UR CORDS
+Info [19:22:15] [ChatLog] [Willcool2000]: UL never know
+Info [19:23:09] [ChatLog] [gigga_nigga]: -3 10 80 there ur cords colten
+Info [19:23:32] Player coltenater has left the game
+Info [19:23:34] Player gigga_nigga has left the game
+Info [19:23:39] Player Willcool2000 has left the game
+     [19:53:21] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [19:53:21] Player coltenater has joined the game
+Warn [19:53:21] AddEntity: Entity at 0x7f5df01365b0 (cPlayer, ID 2081) spawning in a non-existent chunk.
+Info [19:53:48] Player coltenater has left the game
+     [19:53:55] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [19:53:55] Player coltenater has joined the game
+Warn [19:53:55] AddEntity: Entity at 0x7f5df01365b0 (cPlayer, ID 2103) spawning in a non-existent chunk.

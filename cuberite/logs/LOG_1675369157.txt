@@ -1,0 +1,28 @@
+     [20:19:17] --- Started Log ---
+     [20:19:17] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [20:19:17] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [20:19:17] Creating new server instance...
+     [20:19:17] Reading server config...
+     [20:19:17] Starting server...
+Info [20:19:17] Compatible clients: 1.8.x-1.12.x
+Warn [20:19:17] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [20:19:17] Loaded 789 crafting recipes
+Warn [20:19:17] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [20:19:17] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [20:19:17] Loaded 1.12.2 380 recipe book
+     [20:19:17] Loaded 67 furnace recipes and 66 fuels
+     [20:19:17] Loaded 49 brewing recipes
+Warn [20:19:17] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [20:19:17] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [20:19:17] -- Loading Plugins --
+     [20:19:17] [Core] Initialised!
+     [20:19:17] [ChatLog] Initialized ChatLog v.3
+     [20:19:17] -- Loaded 2 Plugins --
+     [20:19:18] Startup complete, took 792ms!
+     [20:19:56] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [20:19:56] Player guzuv has joined the game
+Warn [20:19:56] AddEntity: Entity at 0x7f76ac01dff0 (cPlayer, ID 84) spawning in a non-existent chunk.
+Info [20:22:15] Player guzuv has left the game
+     [20:22:35] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [20:22:35] Player ViggEagl332_zsad has joined the game
+Warn [20:22:35] AddEntity: Entity at 0x7f76ac0106f0 (cPlayer, ID 95) spawning in a non-existent chunk.

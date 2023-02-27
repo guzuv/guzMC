@@ -1,0 +1,37 @@
+     [00:17:00] --- Started Log ---
+     [00:17:00] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [00:17:00] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [00:17:00] Creating new server instance...
+     [00:17:00] Reading server config...
+     [00:17:00] Starting server...
+Info [00:17:00] Compatible clients: 1.8.x-1.12.x
+Warn [00:17:00] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [00:17:00] Loaded 789 crafting recipes
+Warn [00:17:00] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [00:17:00] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [00:17:00] Loaded 1.12.2 380 recipe book
+     [00:17:00] Loaded 67 furnace recipes and 66 fuels
+     [00:17:00] Loaded 49 brewing recipes
+Warn [00:17:00] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [00:17:00] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [00:17:00] -- Loading Plugins --
+     [00:17:00] [Core] Initialised!
+     [00:17:00] [ChatLog] Initialized ChatLog v.3
+     [00:17:00] -- Loaded 2 Plugins --
+     [00:17:01] Preparing spawn (world): 89.00% (356/400; 353.88 chunks / sec)
+     [00:17:01] Startup complete, took 1326ms!
+     [00:17:22] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [00:17:22] Player "null" (90c0c1fea1803a7790733c6b21f0ccfb) save or statistics file not found, resetting to defaults
+Info [00:17:22] Player null has joined the game
+Warn [00:17:22] AddEntity: Entity at 0x7f802001a300 (cPlayer, ID 262) spawning in a non-existent chunk.
+Info [00:24:17] Player null has left the game
+     [00:58:16] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [00:58:16] Player null has joined the game
+Warn [00:58:16] AddEntity: Entity at 0x7f80200b8410 (cPlayer, ID 434) spawning in a non-existent chunk.
+Warn [00:58:25] MoveEntityToNewChunk: Entity at 0x7f80200b8410 (cPlayer, ID 434) moving to a non-existent chunk.
+Info [01:10:39] Player null has left the game
+     [01:11:26] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [01:11:26] Player "Joseph_and_Herry" (de19385473cf32c28f3bfdbbd0b61573) save or statistics file not found, resetting to defaults
+Info [01:11:26] Player Joseph_and_Herry has joined the game
+Warn [01:11:26] AddEntity: Entity at 0x7f80200b8410 (cPlayer, ID 1185) spawning in a non-existent chunk.
+Warn [01:15:14] MoveEntityToNewChunk: Entity at 0x7f8028758a50 (cBat, ID 1289) moving to a non-existent chunk.

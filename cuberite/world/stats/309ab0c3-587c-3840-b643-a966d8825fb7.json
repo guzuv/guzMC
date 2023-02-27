@@ -1,0 +1,15 @@
+{
+	"DataVersion" : 2566,
+	"stats" : 
+	{
+		"custom" : 
+		{
+			"cuberite:achievement.openInventory" : 1,
+			"drop" : 0,
+			"fall_one_cm" : 51,
+			"leave_game" : 1,
+			"play_one_minute" : 181,
+			"time_since_death" : 181
+		}
+	}
+}

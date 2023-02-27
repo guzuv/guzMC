@@ -1,0 +1,61 @@
+     [15:05:16] --- Started Log ---
+     [15:05:16] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [15:05:16] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [15:05:16] Creating new server instance...
+     [15:05:16] Reading server config...
+     [15:05:16] Starting server...
+Info [15:05:16] Compatible clients: 1.8.x-1.12.x
+Warn [15:05:16] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [15:05:16] Loaded 789 crafting recipes
+Warn [15:05:16] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [15:05:16] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [15:05:16] Loaded 1.12.2 380 recipe book
+     [15:05:16] Loaded 67 furnace recipes and 66 fuels
+     [15:05:16] Loaded 49 brewing recipes
+Warn [15:05:16] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [15:05:16] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [15:05:16] -- Loading Plugins --
+     [15:05:16] [Core] Initialised!
+     [15:05:16] [ChatLog] Initialized ChatLog v.3
+     [15:05:16] -- Loaded 2 Plugins --
+     [15:05:17] Startup complete, took 1144ms!
+     [15:05:30] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:05:30] Player guzuv has joined the game
+Warn [15:05:30] AddEntity: Entity at 0x7f15ec018800 (cPlayer, ID 172) spawning in a non-existent chunk.
+Info [15:05:46] Player guzuv has left the game
+     [15:06:02] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:06:02] Player AbBlox4Real has joined the game
+     [15:06:20] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:06:20] Player dicAndBALLZBJ69 has joined the game
+Warn [15:06:20] AddEntity: Entity at 0x7f15ec0d2150 (cPlayer, ID 370) spawning in a non-existent chunk.
+     [15:06:26] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:06:26] Player guzuv has joined the game
+Info [15:07:08] [ChatLog] [AbBlox4Real]: me
+     [15:07:10] Executing console command: "tp"
+     [15:07:10] Usage: 'tp <target player> <destination player>' or 'tp <target player> <x> <y> <z>'
+     [15:07:24] Executing console command: "tp guzuv dicandballzbj69"
+     [15:07:24] Player dicandballzbj69 not found
+Info [15:07:35] [ChatLog] [dicAndBALLZBJ69]: yooo
+Info [15:07:41] [ChatLog] [AbBlox4Real]: my name
+Info [15:07:51] [ChatLog] [dicAndBALLZBJ69]: its me dicandballsbj69!
+     [15:08:07] Executing console command: "tp tp AbBlox4Real dicAndBALLZBJ69"
+     [15:08:07] Usage: 'tp <target player> <destination player>' or 'tp <target player> <x> <y> <z>'
+Info [15:08:22] [ChatLog] [dicAndBALLZBJ69]: w
+     [15:08:28] Executing console command: "tp AbBlox4Real dicAndBALLZBJ69"
+     [15:08:28] Teleported AbBlox4Real to dicAndBALLZBJ69
+     [15:08:47] Executing console command: "tp guzuv AbBlox4Real"
+     [15:08:47] Teleported guzuv to AbBlox4Real
+     [15:08:55] Executing console command: "give guzuv diamond_sword"
+     [15:08:55] [Core] Console: Given [ diamondsword ] x 1 to guzuv
+     [15:09:25] Executing console command: "tp guzuv dicAndBALLZBJ69"
+     [15:09:25] Teleported guzuv to dicAndBALLZBJ69
+     [15:10:26] Executing console command: "smite AbBlox4Real"
+     [15:10:26] Unknown command, type 'help' for all commands.
+Info [15:10:34] [ChatLog] [dicAndBALLZBJ69]: let me have diamond armor plzzzz
+     [15:10:59] Executing console command: "clear dicAndBALLZBJ69"
+     [15:10:59] You cleared the inventory of player "dicAndBALLZBJ69"
+     [15:11:10] Executing console command: "kill guzuv"
+     [15:11:10] Successfully killed player "guzuv"
+     [15:11:22] Executing console command: "kill AbBlox4Real"
+     [15:11:22] Successfully killed player "AbBlox4Real"
+Warn [15:11:24] MoveEntityToNewChunk: Entity at 0x7f15ec024d60 (cPlayer, ID 354) moving to a non-existent chunk.

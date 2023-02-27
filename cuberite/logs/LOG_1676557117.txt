@@ -1,0 +1,42 @@
+     [14:18:37] --- Started Log ---
+     [14:18:37] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [14:18:37] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [14:18:37] Creating new server instance...
+     [14:18:37] Reading server config...
+     [14:18:37] Starting server...
+Info [14:18:37] Compatible clients: 1.8.x-1.12.x
+Warn [14:18:37] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [14:18:37] Loaded 789 crafting recipes
+Warn [14:18:37] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [14:18:37] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [14:18:37] Loaded 1.12.2 380 recipe book
+     [14:18:37] Loaded 67 furnace recipes and 66 fuels
+     [14:18:37] Loaded 49 brewing recipes
+Warn [14:18:37] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [14:18:37] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [14:18:37] -- Loading Plugins --
+     [14:18:37] [Core] Initialised!
+     [14:18:37] [ChatLog] Initialized ChatLog v.3
+     [14:18:37] -- Loaded 2 Plugins --
+     [14:18:37] Startup complete, took 566ms!
+     [14:18:51] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [14:18:51] Player "DicandBallzBJ69" (659aa0e760bf323fa66c0462e97d333f) save or statistics file not found, resetting to defaults
+Info [14:18:51] Player DicandBallzBJ69 has joined the game
+Info [14:19:04] Player DicandBallzBJ69 has left the game
+     [14:19:54] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [14:19:54] Player DicandBallzBJ69 has joined the game
+Info [14:20:51] [ChatLog] [DicandBallzBJ69]: i love dick
+Info [14:29:00] Player DicandBallzBJ69 has left the game
+     [14:46:48] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [14:46:48] Player guzuv has joined the game
+Warn [14:46:48] AddEntity: Entity at 0x7fcd8003eb10 (cPlayer, ID 526) spawning in a non-existent chunk.
+Warn [14:46:49] MoveEntityToNewChunk: Entity at 0x7fcd889e1ff0 (cBat, ID 531) moving to a non-existent chunk.
+     [14:50:12] Executing console command: "weather clear"
+     [14:50:12] Changing to clear weather in world: world
+Info [15:00:18] Kicking player guzuv for "Server shutdown"
+Info [15:00:18] Player guzuv has left the game
+     [15:00:19] Shutting down server...
+     [15:00:19] [Core] Disabling...
+     [15:00:19] Cleaning up...
+     [15:00:19] Shutdown successful!
+     [15:00:19] --- Stopped Log ---

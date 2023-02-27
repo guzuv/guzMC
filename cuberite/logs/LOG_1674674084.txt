@@ -1,0 +1,29 @@
+     [19:14:44] --- Started Log ---
+     [19:14:44] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [19:14:44] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [19:14:44] Creating new server instance...
+     [19:14:44] Reading server config...
+     [19:14:44] Starting server...
+Info [19:14:44] Compatible clients: 1.8.x-1.12.x
+Warn [19:14:44] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [19:14:44] Loaded 789 crafting recipes
+Warn [19:14:44] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [19:14:44] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [19:14:44] Loaded 1.12.2 380 recipe book
+     [19:14:44] Loaded 67 furnace recipes and 66 fuels
+     [19:14:44] Loaded 49 brewing recipes
+Warn [19:14:44] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [19:14:44] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [19:14:44] -- Loading Plugins --
+     [19:14:44] [Core] Initialised!
+     [19:14:44] [ChatLog] Initialized ChatLog v.3
+     [19:14:44] -- Loaded 2 Plugins --
+     [19:14:45] Preparing spawn (world): 97.50% (390/400; 389.22 chunks / sec)
+     [19:14:45] Startup complete, took 1220ms!
+     [19:15:21] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [19:15:21] Player "YeeishYee669" (1b84ad6acf153503b7e75aa7faa1bf7c) save or statistics file not found, resetting to defaults
+Info [19:15:21] Player YeeishYee669 has joined the game
+     [19:18:19] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [19:18:19] Player "ViggYeeish208" (cb4782ec572a36f4925fc8de5e8f3bcf) save or statistics file not found, resetting to defaults
+Info [19:18:19] Player ViggYeeish208 has joined the game
+Warn [19:18:19] AddEntity: Entity at 0x7fdfc402d9d0 (cPlayer, ID 127) spawning in a non-existent chunk.

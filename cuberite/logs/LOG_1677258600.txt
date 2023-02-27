@@ -1,0 +1,231 @@
+     [17:10:00] --- Started Log ---
+     [17:10:00] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [17:10:00] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [17:10:00] Creating new server instance...
+     [17:10:00] Reading server config...
+     [17:10:00] Starting server...
+Info [17:10:00] Compatible clients: 1.8.x-1.12.x
+Warn [17:10:00] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [17:10:01] Loaded 789 crafting recipes
+Warn [17:10:01] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [17:10:01] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [17:10:01] Loaded 1.12.2 380 recipe book
+     [17:10:01] Loaded 67 furnace recipes and 66 fuels
+     [17:10:01] Loaded 49 brewing recipes
+Warn [17:10:01] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [17:10:01] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [17:10:01] -- Loading Plugins --
+     [17:10:01] [Core] Initialised!
+     [17:10:01] [ChatLog] Initialized ChatLog v.3
+     [17:10:01] -- Loaded 2 Plugins --
+     [17:10:02] Preparing spawn (world): 23.00% (92/400; 91.45 chunks / sec)
+     [17:10:03] Startup complete, took 2728ms!
+     [17:10:15] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [17:10:15] Player "Cumnugget" (685e285976e73a9792b8fd833834485b) save or statistics file not found, resetting to defaults
+Info [17:10:15] Player Cumnugget has joined the game
+     [17:10:15] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [17:10:15] Player Willcool2000 has joined the game
+Warn [17:10:15] AddEntity: Entity at 0x7fdf94018290 (cPlayer, ID 190) spawning in a non-existent chunk.
+Warn [17:10:15] AddEntity: Entity at 0x7fdf9401d230 (cPlayer, ID 191) spawning in a non-existent chunk.
+Info [17:10:30] [ChatLog] [Cumnugget]: cum
+Info [17:18:08] Player Willcool2000 has left the game
+     [17:18:10] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [17:18:10] Player Willcool2000 has joined the game
+Info [17:21:24] Player Willcool2000 has left the game
+     [17:21:27] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [17:21:27] Player Willcool2000 has joined the game
+Warn [17:25:26] MoveEntityToNewChunk: Entity at 0x7fdfa456ded0 (cCreeper, ID 634) moving to a non-existent chunk.
+Info [17:26:10] [ChatLog] [Cumnugget]: CUM
+Info [17:33:42] Player Cumnugget has left the game
+Info [17:34:05] Player Willcool2000 has left the game
+     [17:37:23] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [17:37:23] Player guzuv has joined the game
+Warn [17:37:23] AddEntity: Entity at 0x7fdf94005ec0 (cPlayer, ID 829) spawning in a non-existent chunk.
+     [17:37:30] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [17:37:30] Player Cumnugget has joined the game
+Warn [17:37:30] AddEntity: Entity at 0x7fdf940078e0 (cPlayer, ID 882) spawning in a non-existent chunk.
+Info [17:37:38] Player guzuv has left the game
+     [17:37:43] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [17:37:43] Player guzuv has joined the game
+Warn [17:37:43] AddEntity: Entity at 0x7fdf9400b0d0 (cPlayer, ID 902) spawning in a non-existent chunk.
+     [17:37:45] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [17:37:45] Player Willcool2000 has joined the game
+     [17:41:19] Executing console command: "tp guzuv Willcool2000"
+     [17:41:19] Teleported guzuv to Willcool2000
+     [17:41:39] Executing console command: "tp guzuv Willcool"
+     [17:41:39] Player Willcool not found
+     [17:41:54] Executing console command: "tp guzuv Willcool2000"
+     [17:41:54] Teleported guzuv to Willcool2000
+     [17:42:16] Executing console command: "gamemode guzuv creative"
+     [17:42:16] Usage: gamemode <survival|creative|adventure|spectator> <player> 
+Info [17:42:26] Player guzuv has left the game
+Info [17:42:35] Player Cumnugget has left the game
+Info [17:42:54] Player Willcool2000 has left the game
+     [17:44:38] Executing console command: "gamemode crban Cumnugget"
+     [17:44:38] Usage: gamemode <survival|creative|adventure|spectator> <player> 
+     [17:44:45] Executing console command: "ban Cumnuggey"
+Info [17:44:45] [Core] Could not find player Cumnuggey, but banned them anyway.
+     [17:44:51] Executing console command: "ban Cumnugget"
+Info [17:44:51] [Core] Could not find player Cumnugget, but banned them anyway.
+     [17:45:09] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [17:45:09] Kicking player Cumnugget for "You have been banned: You have been banned."
+     [17:45:16] Executing console command: "unban Cumnugget"
+Info [17:45:16] [Core] Unbanned Cumnugget
+     [17:45:50] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [17:45:50] Player Willcool2000 has joined the game
+Warn [17:45:50] AddEntity: Entity at 0x7fdf942c0e70 (cPlayer, ID 1119) spawning in a non-existent chunk.
+Info [17:45:50] Player Cumnugget has left the game
+     [17:45:52] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [17:45:52] Player Cumnugget has joined the game
+     [17:45:52] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [17:45:52] Player guzuv has joined the game
+Warn [17:45:52] AddEntity: Entity at 0x7fdf94136dd0 (cPlayer, ID 1125) spawning in a non-existent chunk.
+     [17:46:06] Executing console command: "tp guzuv Willcool2000"
+     [17:46:06] Teleported guzuv to Willcool2000
+     [17:46:42] Executing console command: "tp guzuv 193 17 14"
+     [17:46:42] Player not found
+     [17:46:58] Executing console command: "gamemode creativ guzuv"
+     [17:46:58] Usage: gamemode <survival|creative|adventure|spectator> <player> 
+     [17:47:31] Executing console command: "gamemode creative guzuv"
+     [17:47:31] [Core] Gamemode of guzuv set to creative by: console
+     [17:47:43] Executing console command: "tp guzuv Willcool2000"
+     [17:47:43] Teleported guzuv to Willcool2000
+Warn [17:47:43] MoveEntityToNewChunk: Entity at 0x7fdf94136dd0 (cPlayer, ID 1125) moving to a non-existent chunk.
+     [17:48:39] Executing console command: "gamemode survival guzuv"
+     [17:48:39] [Core] Gamemode of guzuv set to survival by: console
+     [17:49:00] Executing console command: "give guzuv iron 9"
+     [17:49:00] [Core] Console: Given [ ironblock ] x 9 to guzuv
+     [17:50:27] Executing console command: "clear guzuv"
+     [17:50:27] You cleared the inventory of player "guzuv"
+     [17:52:04] Executing console command: "\"
+     [17:52:04] Unknown command, type 'help' for all commands.
+     [17:52:07] Executing console command: "effect"
+     [17:52:07] Usage: effect <player> <effect> [seconds] [amplifier] OR effect <player> clear
+     [17:52:31] Executing console command: "gamemode creative guzuv"
+     [17:52:31] [Core] Gamemode of guzuv set to creative by: console
+     [17:54:01] Executing console command: "give Willcool2000 dirt 1"
+     [17:54:01] [Core] Console: Given [ dirt ] x 1 to Willcool2000
+     [17:54:40] Executing console command: "gamemode survival guzuv"
+     [17:54:40] [Core] Gamemode of guzuv set to survival by: console
+     [17:55:24] Executing console command: "gamemode creative guzuv"
+     [17:55:24] [Core] Gamemode of guzuv set to creative by: console
+     [17:55:36] Executing console command: "tp guzuv Willcool2000"
+     [17:55:36] Teleported guzuv to Willcool2000
+     [17:55:52] Executing console command: "gamemode survival guzuv"
+     [17:55:52] [Core] Gamemode of guzuv set to survival by: console
+     [17:58:15] Executing console command: "give guzuv iron_ore 7"
+     [17:58:15] [Core] Console: Given [ ironore ] x 7 to guzuv
+Info [17:58:39] Player Cumnugget has left the game
+Info [17:59:54] Player guzuv has left the game
+     [18:01:54] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [18:01:54] Player "________________" (309ab0c3587c3840b643a966d8825fb7) save or statistics file not found, resetting to defaults
+Info [18:01:54] Player ________________ has joined the game
+Warn [18:01:54] AddEntity: Entity at 0x7fdf942c21c0 (cPlayer, ID 1807) spawning in a non-existent chunk.
+Info [18:02:04] Player ________________ has left the game
+Info [18:06:24] Player Willcool2000 has left the game
+     [18:49:36] Executing console command: "help"
+     [18:49:36] ban                   - Bans a player by name.
+     [18:49:36] banip                 - Bans a player by IP.
+     [18:49:36] banlist               - Shows a list of all players banned by name.
+     [18:49:36] banlist ips           - Shows a list of all players banned by IP.
+     [18:49:36] chunkstats            - Displays detailed chunk memory statistics
+     [18:49:36] clear                 - Clears the inventory of a player.
+     [18:49:36] deop                  - Resets a player's rank to default.
+     [18:49:36] destroyentities       - Destroys all entities in all worlds
+     [18:49:36] effect                - Adds an effect to a player.
+     [18:49:36] enchant               - Adds an enchantment to a specified player's held item.
+     [18:49:36] gamemode              - Changes a player's gamemode.
+     [18:49:36] give                  - Gives an item to a player.
+     [18:49:36] gm                    - Changes a player's gamemode.
+     [18:49:36] groups                - Shows a list of all the available groups.
+     [18:49:36] help                  - Shows the available commands
+     [18:49:36] kick                  - Kicks a player by name.
+     [18:49:36] kill                  - Kills a player.
+     [18:49:36] list                  - Shows a list of all connected players in a machine-readable format.
+     [18:49:36] listgroups            - Shows a list of all the available groups.
+     [18:49:36] listranks             - Shows a list of all the available ranks.
+     [18:49:36] load                  - Adds and enables the specified plugin
+     [18:49:36] msg                   - Sends a private message to a player.
+     [18:49:36] numchunks             - Shows number of chunks currently loaded.
+     [18:49:36] op                    - Add a player to the Admin rank.
+     [18:49:36] players               - Shows a list of all connected players.
+     [18:49:36] plugins               - Shows a list of the plugins.
+     [18:49:36] r                     - Replies to the latest private message you received.
+     [18:49:36] rank                  - Shows or sets a player's rank.
+     [18:49:36] ranks                 - Shows a list of all the available ranks.
+     [18:49:36] regen                 - Regenerates a chunk.
+     [18:49:36] reload                - Reloads all plugins
+     [18:49:36] reloadweb             - Reloads the webadmin configuration
+     [18:49:36] restart               - Restarts the server cleanly
+     [18:49:36] save-all              - Saves all worlds.
+     [18:49:36] say                   - Sends a chat message to all players.
+     [18:49:36] scoreboard            - Manages and displays scores for various scoreboard objectives. 
+     [18:49:36] scoreboard objectives - Manage Objectives
+     [18:49:36] scoreboard players    - Manage Players
+     [18:49:36] seed                  - Shows the seed of the given world name or default world, if not given.
+     [18:49:36] spawn                 - Returns a player to the spawn point.
+     [18:49:36] spawnpoint            - Sets the spawn point for a player.
+     [18:49:36] stop                  - Stops the server cleanly
+     [18:49:36] summon                - Summons an entity in the world.
+     [18:49:36] tell                  - Sends a private message to a player.
+     [18:49:36] time                  - Sets or displays the time.
+     [18:49:36] time add              - Adds a given value to the current time.
+     [18:49:36] time day              - Sets the time to day.
+     [18:49:36] time night            - Sets the time to night.
+     [18:49:36] time query daytime    - Displays the current time.
+     [18:49:36] time query gametime   - Displays the amount of time elapsed since start.
+     [18:49:36] time set              - Sets the time to a given value.
+     [18:49:36] toggledownfall        - Toggles the weather between clear skies and rain.
+     [18:49:36] tp                    - Teleports a player.
+     [18:49:36] tps                   - Returns the tps (ticks per second) from the server.
+     [18:49:36] unban                 - Unbans a player by name.
+     [18:49:36] unbanip               - Unbans a player by IP.
+     [18:49:36] unload                - Disables the specified plugin
+     [18:49:36] unloadchunks          - Unloads all unused chunks.
+     [18:49:36] unrank                - Resets a player's rank to default.
+     [18:49:36] unsafegive            - Gives an item to a player, even if the item is blacklisted.
+     [18:49:36] weather               - Changes the world's weather.
+     [18:49:36] whitelist             - Manages the whitelist.
+     [18:49:36] whitelist add         - Adds a player to the whitelist.
+     [18:49:36] whitelist list        - Shows a list of all players on the whitelist.
+     [18:49:36] whitelist off         - Turns off whitelist processing.
+     [18:49:36] whitelist on          - Turns on whitelist processing.
+     [18:49:36] whitelist remove      - Removes a player from the whitelist.
+     [18:49:36] worlds                - Shows a list of all the worlds.
+     [18:49:42] Executing console command: "worlds"
+     [18:49:42] There are 1 worlds:
+     [18:49:42] world
+     [19:28:12] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [19:28:12] Player coltenater has joined the game
+Warn [19:28:12] AddEntity: Entity at 0x7fdf941f43f0 (cPlayer, ID 1909) spawning in a non-existent chunk.
+Info [19:28:53] Player coltenater has left the game
+     [19:29:17] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [19:29:17] Player "cumnugget" (69a8f0fc2c273da8ac435738858d7690) save or statistics file not found, resetting to defaults
+Info [19:29:17] Player cumnugget has joined the game
+Warn [19:29:17] AddEntity: Entity at 0x7fdf9420d2b0 (cPlayer, ID 1980) spawning in a non-existent chunk.
+     [19:29:37] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [19:29:37] Player "HEROBRINE" (806f03b8d2653b12b50d8eee0be6f38a) save or statistics file not found, resetting to defaults
+Info [19:29:37] Player HEROBRINE has joined the game
+     [19:30:57] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [19:30:57] Player Willcool2000 has joined the game
+Warn [19:30:57] AddEntity: Entity at 0x7fdf941fcc50 (cPlayer, ID 2126) spawning in a non-existent chunk.
+     [19:31:14] Player cumnugget is executing command "/ban Willcool2000" in world "world" at world age 221988.
+Info [19:31:14] Player cumnugget tried to execute forbidden command: "/ban"
+Info [19:31:53] [ChatLog] [HEROBRINE]: where are you guys
+Info [19:32:10] [ChatLog] [HEROBRINE]: I WILL HACK YOU GUYS
+Info [19:32:20] [ChatLog] [HEROBRINE]: AHHAHAHAHAHA
+Info [19:32:35] [ChatLog] [HEROBRINE]: I KNOW YOUR REAL NAME COLTON AND WILLIAM
+Info [19:32:44] Player cumnugget has left the game
+Info [19:33:28] Player Willcool2000 has left the game
+Info [19:34:39] Player HEROBRINE has left the game
+     [19:36:24] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [19:36:24] Player "cumnugget_" (f7ba104e37363ee08709f1d041b02524) save or statistics file not found, resetting to defaults
+Info [19:36:24] Player cumnugget_ has joined the game
+     [19:37:50] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [19:37:50] Player Willcool2000__ has joined the game
+Warn [19:37:50] AddEntity: Entity at 0x7fdf94057170 (cPlayer, ID 2293) spawning in a non-existent chunk.
+Info [19:38:09] Player Willcool2000__ has left the game
+     [19:38:22] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [19:38:22] Player Willcool2000 has joined the game
+Warn [19:38:22] AddEntity: Entity at 0x7fdf942c21c0 (cPlayer, ID 2410) spawning in a non-existent chunk.
+Warn [19:41:51] MoveEntityToNewChunk: Entity at 0x7fdfa4e129d0 (cBat, ID 2448) moving to a non-existent chunk.

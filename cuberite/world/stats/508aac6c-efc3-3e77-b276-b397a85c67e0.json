@@ -1,0 +1,14 @@
+{
+	"DataVersion" : 2566,
+	"stats" : 
+	{
+		"custom" : 
+		{
+			"drop" : 0,
+			"fall_one_cm" : 51,
+			"leave_game" : 1,
+			"play_one_minute" : 284,
+			"time_since_death" : 284
+		}
+	}
+}

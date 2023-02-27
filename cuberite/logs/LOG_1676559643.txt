@@ -1,0 +1,86 @@
+     [15:00:43] --- Started Log ---
+     [15:00:43] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [15:00:43] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [15:00:43] Creating new server instance...
+     [15:00:43] Reading server config...
+     [15:00:43] Starting server...
+Info [15:00:43] Compatible clients: 1.8.x-1.12.x
+Warn [15:00:43] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [15:00:44] Loaded 789 crafting recipes
+Warn [15:00:44] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [15:00:44] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [15:00:44] Loaded 1.12.2 380 recipe book
+     [15:00:44] Loaded 67 furnace recipes and 66 fuels
+     [15:00:44] Loaded 49 brewing recipes
+Warn [15:00:44] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [15:00:44] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [15:00:44] -- Loading Plugins --
+     [15:00:44] [Core] Initialised!
+     [15:00:44] [ChatLog] Initialized ChatLog v.3
+     [15:00:44] -- Loaded 2 Plugins --
+     [15:00:45] Preparing spawn (world): 72.75% (291/400; 287.27 chunks / sec)
+     [15:00:45] Startup complete, took 1588ms!
+     [15:02:30] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:02:30] Player guzuv has joined the game
+Warn [15:02:30] AddEntity: Entity at 0x7f776002d380 (cPlayer, ID 148) spawning in a non-existent chunk.
+Info [15:02:55] Player guzuv has left the game
+     [15:21:08] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [15:21:08] Player "YeeYeeler360" (508aac6cefc33e77b276b397a85c67e0) save or statistics file not found, resetting to defaults
+Info [15:21:08] Player YeeYeeler360 has joined the game
+Warn [15:21:08] AddEntity: Entity at 0x7f77601762d0 (cPlayer, ID 273) spawning in a non-existent chunk.
+Info [15:21:23] Player YeeYeeler360 has left the game
+     [15:23:41] Executing console command: "help"
+     [15:23:41] ban                   - Bans a player by name.
+     [15:23:41] banip                 - Bans a player by IP.
+     [15:23:41] banlist               - Shows a list of all players banned by name.
+     [15:23:41] banlist ips           - Shows a list of all players banned by IP.
+     [15:23:41] chunkstats            - Displays detailed chunk memory statistics
+     [15:23:41] clear                 - Clears the inventory of a player.
+     [15:23:41] deop                  - Resets a player's rank to default.
+     [15:23:41] destroyentities       - Destroys all entities in all worlds
+     [15:23:41] effect                - Adds an effect to a player.
+     [15:23:41] enchant               - Adds an enchantment to a specified player's held item.
+     [15:23:41] gamemode              - Changes a player's gamemode.
+     [15:23:41] give                  - Gives an item to a player.
+     [15:23:41] gm                    - Changes a player's gamemode.
+     [15:23:41] groups                - Shows a list of all the available groups.
+     [15:23:41] help                  - Shows the available commands
+     [15:23:41] kick                  - Kicks a player by name.
+     [15:23:41] kill                  - Kills a player.
+     [15:23:41] list                  - Shows a list of all connected players in a machine-readable format.
+     [15:23:41] listgroups            - Shows a list of all the available groups.
+     [15:23:41] listranks             - Shows a list of all the available ranks.
+     [15:23:41] load                  - Adds and enables the specified plugin
+     [15:23:41] msg                   - Sends a private message to a player.
+     [15:23:41] numchunks             - Shows number of chunks currently loaded.
+     [15:23:41] op                    - Add a player to the Admin rank.
+     [15:23:41] players               - Shows a list of all connected players.
+     [15:23:41] plugins               - Shows a list of the plugins.
+     [15:23:41] r                     - Replies to the latest private message you received.
+     [15:23:41] rank                  - Shows or sets a player's rank.
+     [15:23:41] ranks                 - Shows a list of all the available ranks.
+     [15:23:41] regen                 - Regenerates a chunk.
+     [15:23:41] reload                - Reloads all plugins
+     [15:23:41] reloadweb             - Reloads the webadmin configuration
+     [15:23:41] restart               - Restarts the server cleanly
+     [15:23:41] save-all              - Saves all worlds.
+     [15:23:41] say                   - Sends a chat message to all players.
+     [15:23:41] scoreboard            - Manages and displays scores for various scoreboard objectives. 
+     [15:23:41] scoreboard objectives - Manage Objectives
+     [15:23:41] scoreboard players    - Manage Players
+     [15:23:41] seed                  - Shows the seed of the given world name or default world, if not given.
+     [15:23:41] spawn                 - Returns a player to the spawn point.
+     [15:23:41] spawnpoint            - Sets the spawn point for a player.
+     [15:23:41] stop                  - Stops the server cleanly
+     [15:23:41] summon                - Summons an entity in the world.
+     [15:23:41] tell                  - Sends a private message to a player.
+     [15:23:41] time                  - Sets or displays the time.
+     [15:23:41] time add              - Adds a given value to the current time.
+     [15:23:41] time day              - Sets the time to day.
+     [15:23:41] time night            - Sets the time to night.
+     [15:23:41] time query daytime    - Displays the current time.
+     [15:23:41] time query gametime   - Displays the amount of time elapsed since start.
+     [15:23:41] time set              - Sets the time to a given value.
+     [15:23:41] toggledownfall        - Toggles the weather between clear skies and rain.
+     [15:23:41] tp                    - Teleports a player.
+     [15:23:41] tps                   - R

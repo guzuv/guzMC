@@ -1,0 +1,28 @@
+{
+	"DataVersion" : 2566,
+	"stats" : 
+	{
+		"custom" : 
+		{
+			"cuberite:achievement.buildBetterPickaxe" : 1,
+			"cuberite:achievement.buildFurnace" : 2,
+			"cuberite:achievement.buildHoe" : 1,
+			"cuberite:achievement.buildPickaxe" : 1,
+			"cuberite:achievement.buildWorkBench" : 1,
+			"cuberite:achievement.mineWood" : 12,
+			"cuberite:achievement.openInventory" : 11,
+			"damage_dealt" : 970,
+			"damage_taken" : 930,
+			"deaths" : 2,
+			"drop" : 18,
+			"fall_one_cm" : 56203,
+			"interact_with_crafting_table" : 4,
+			"leave_game" : 2,
+			"mob_kills" : 4,
+			"play_one_minute" : 22706,
+			"sprint_one_cm" : 5679,
+			"time_since_death" : 3240,
+			"walk_one_cm" : 38121
+		}
+	}
+}

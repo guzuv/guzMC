@@ -1,0 +1,16 @@
+     [00:44:03] --- Started Log ---
+     [00:44:03] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [00:44:03] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [00:44:03] Creating new server instance...
+     [00:44:03] Reading server config...
+     [00:44:03] Starting server...
+Info [00:44:03] Compatible clients: 1.8.x-1.12.x
+Warn [00:44:03] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [00:44:04] Loaded 789 crafting recipes
+Warn [00:44:04] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [00:44:04] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [00:44:04] Loaded 1.12.2 380 recipe book
+     [00:44:04] Loaded 67 furnace recipes and 66 fuels
+     [00:44:04] Loaded 49 brewing recipes
+Warn [00:44:04] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [00:44:04] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.

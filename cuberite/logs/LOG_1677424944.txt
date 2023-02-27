@@ -1,0 +1,39 @@
+     [15:22:24] --- Started Log ---
+     [15:22:24] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [15:22:24] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [15:22:24] Creating new server instance...
+     [15:22:24] Reading server config...
+     [15:22:24] Starting server...
+Info [15:22:24] Compatible clients: 1.8.x-1.12.x
+Warn [15:22:24] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [15:22:24] Loaded 789 crafting recipes
+Warn [15:22:24] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [15:22:24] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [15:22:24] Loaded 1.12.2 380 recipe book
+     [15:22:24] Loaded 67 furnace recipes and 66 fuels
+     [15:22:24] Loaded 49 brewing recipes
+Warn [15:22:24] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [15:22:24] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [15:22:24] -- Loading Plugins --
+     [15:22:24] [Core] Initialised!
+     [15:22:24] [ChatLog] Initialized ChatLog v.3
+     [15:22:24] -- Loaded 2 Plugins --
+     [15:22:25] Startup complete, took 693ms!
+     [15:22:38] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:22:38] Player guzuv has joined the game
+Warn [15:22:38] AddEntity: Entity at 0x7f4dfc017ba0 (cPlayer, ID 183) spawning in a non-existent chunk.
+Info [15:40:30] Player guzuv has left the game
+     [15:40:48] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:40:48] Player Willcool2000 has joined the game
+Warn [15:40:48] AddEntity: Entity at 0x7f4dfc014970 (cPlayer, ID 715) spawning in a non-existent chunk.
+Info [15:41:06] Player Willcool2000 has left the game
+     [15:41:21] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:41:21] Player Cumnugget has joined the game
+Warn [15:41:21] AddEntity: Entity at 0x7f4dfc014630 (cPlayer, ID 756) spawning in a non-existent chunk.
+Info [15:41:27] Player Cumnugget has left the game
+     [15:41:44] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:41:44] Player guzuv has joined the game
+Info [15:43:31] Player guzuv has left the game
+     [15:44:52] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [15:44:52] Player guzuv has joined the game
+Warn [15:44:52] AddEntity: Entity at 0x7f4dfc142e80 (cPlayer, ID 830) spawning in a non-existent chunk.

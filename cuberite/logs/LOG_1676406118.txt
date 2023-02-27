@@ -1,0 +1,33 @@
+     [20:21:58] --- Started Log ---
+     [20:21:58] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [20:21:58] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [20:21:58] Creating new server instance...
+     [20:21:58] Reading server config...
+     [20:21:58] Starting server...
+Info [20:21:58] Compatible clients: 1.8.x-1.12.x
+Warn [20:21:58] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [20:21:58] Loaded 789 crafting recipes
+Warn [20:21:58] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [20:21:58] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [20:21:58] Loaded 1.12.2 380 recipe book
+     [20:21:58] Loaded 67 furnace recipes and 66 fuels
+     [20:21:58] Loaded 49 brewing recipes
+Warn [20:21:58] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [20:21:58] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [20:21:58] -- Loading Plugins --
+     [20:21:59] [Core] Initialised!
+     [20:21:59] [ChatLog] Initialized ChatLog v.3
+     [20:21:59] -- Loaded 2 Plugins --
+     [20:21:59] Startup complete, took 975ms!
+     [20:22:14] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [20:22:14] Player guzuv has joined the game
+Warn [20:22:15] AddEntity: Entity at 0x7f3c3c019010 (cPlayer, ID 166) spawning in a non-existent chunk.
+     [20:22:28] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [20:22:28] Player "dicAndBALLZBJ69" (9f37da7b29c7355790ef964e35e23ccf) save or statistics file not found, resetting to defaults
+Info [20:22:28] Player dicAndBALLZBJ69 has joined the game
+     [20:22:42] Player guzuv is executing command "/ballz\]" in world "world" at world age 4734.
+Info [20:22:42] Player guzuv issued an unknown command: "/ballz\]"
+Warn [20:30:30] MoveEntityToNewChunk: Entity at 0x7f3c3c036780 (cPlayer, ID 244) moving to a non-existent chunk.
+     [20:32:02] Executing console command: "tp guzuv dicAndBALLZBJ69"
+     [20:32:02] Teleported guzuv to dicAndBALLZBJ69
+Warn [20:32:09] MoveEntityToNewChunk: Entity at 0x7f3c3c019010 (cPlayer, ID 166) moving to a non-existent chunk.

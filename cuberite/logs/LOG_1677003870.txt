@@ -1,0 +1,42 @@
+     [18:24:30] --- Started Log ---
+     [18:24:30] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [18:24:30] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [18:24:30] Creating new server instance...
+     [18:24:30] Reading server config...
+     [18:24:30] Starting server...
+Info [18:24:30] Compatible clients: 1.8.x-1.12.x
+Warn [18:24:30] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [18:24:30] Loaded 789 crafting recipes
+Warn [18:24:30] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [18:24:30] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [18:24:30] Loaded 1.12.2 380 recipe book
+     [18:24:30] Loaded 67 furnace recipes and 66 fuels
+     [18:24:30] Loaded 49 brewing recipes
+Warn [18:24:30] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [18:24:30] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [18:24:30] -- Loading Plugins --
+     [18:24:30] [Core] Initialised!
+     [18:24:30] [ChatLog] Initialized ChatLog v.3
+     [18:24:30] -- Loaded 2 Plugins --
+     [18:24:31] Preparing spawn (world): 56.00% (224/400; 224.00 chunks / sec)
+     [18:24:32] Startup complete, took 1651ms!
+     [18:28:48] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [18:28:48] Player "Willcool2000" (41b888a7a0c4330282a5e79fd74a37e7) save or statistics file not found, resetting to defaults
+Info [18:28:48] Player Willcool2000 has joined the game
+Warn [18:28:48] AddEntity: Entity at 0x7ff62c050d50 (cPlayer, ID 137) spawning in a non-existent chunk.
+Info [18:31:37] Player Willcool2000 has left the game
+     [18:32:45] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [18:32:45] Player "YeeVigg922" (4ebc96d720e73fbd9834aa5e260d642b) save or statistics file not found, resetting to defaults
+Info [18:32:45] Player YeeVigg922 has joined the game
+     [18:32:46] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [18:32:46] Player "Willcool2000__" (67da8797cce438b994a26cdccdabf905) save or statistics file not found, resetting to defaults
+Info [18:32:46] Player Willcool2000__ has joined the game
+Info [18:34:00] Player Willcool2000__ has left the game
+Warn [18:49:16] *** Window lost sync at item 5 in SlotArea with 10 items ***
+Warn [18:49:16] My item:    coal:0 * 15
+Warn [18:49:16] Their item: cobblestone:0 * 3
+Info [18:56:40] Player YeeVigg922 has left the game
+     [19:03:25] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [19:03:25] Player "coltenater95" (e497f7cf658d320db2ae381e0eec1268) save or statistics file not found, resetting to defaults
+Info [19:03:25] Player coltenater95 has joined the game
+Warn [19:03:25] AddEntity: Entity at 0x7ff62c121e90 (cPlayer, ID 1334) spawning in a non-existent chunk.

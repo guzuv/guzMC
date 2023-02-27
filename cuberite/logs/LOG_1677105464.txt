@@ -1,0 +1,37 @@
+     [22:37:44] --- Started Log ---
+     [22:37:44] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [22:37:44] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [22:37:44] Creating new server instance...
+     [22:37:44] Reading server config...
+     [22:37:44] Starting server...
+Info [22:37:44] Compatible clients: 1.8.x-1.12.x
+Warn [22:37:44] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [22:37:44] Loaded 789 crafting recipes
+Warn [22:37:44] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [22:37:44] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [22:37:44] Loaded 1.12.2 380 recipe book
+     [22:37:44] Loaded 67 furnace recipes and 66 fuels
+     [22:37:44] Loaded 49 brewing recipes
+Warn [22:37:44] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [22:37:44] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [22:37:44] -- Loading Plugins --
+     [22:37:44] [Core] Initialised!
+     [22:37:44] [ChatLog] Initialized ChatLog v.3
+     [22:37:44] -- Loaded 2 Plugins --
+     [22:37:45] Startup complete, took 681ms!
+     [22:38:02] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [22:38:02] Player Willcool2000 has joined the game
+Warn [22:38:02] AddEntity: Entity at 0x7f0bc80191c0 (cPlayer, ID 265) spawning in a non-existent chunk.
+Warn [22:39:02] MoveEntityToNewChunk: Entity at 0x7f0bd10bf920 (cChicken, ID 343) moving to a non-existent chunk.
+Warn [22:42:26] *** Window lost sync at item 2 in SlotArea with 3 items ***
+Warn [22:42:26] My item:    ironingot:0 * 1
+Warn [22:42:26] Their item: -1:0:0 * 0
+Warn [22:42:57] *** Window lost sync at item 2 in SlotArea with 3 items ***
+Warn [22:42:57] My item:    ironingot:0 * 1
+Warn [22:42:57] Their item: -1:0:0 * 0
+Warn [22:43:20] DistributeItemToSlots: Distributing less items (0) than slots (1)
+Warn [22:45:17] SpawnSplitExperienceOrbs: Attempting to create an experience orb with non-positive reward!
+Warn [23:01:46] MoveEntityToNewChunk: Entity at 0x7f0bd89cbf20 (cZombie, ID 909) moving to a non-existent chunk.
+Warn [23:10:19] *** Window lost sync at item 2 in SlotArea with 3 items ***
+Warn [23:10:19] My item:    ironingot:0 * 1
+Warn [23:10:19] Their item: -1:0:0 * 0

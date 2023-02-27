@@ -1,0 +1,47 @@
+     [23:00:52] --- Started Log ---
+     [23:00:52] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [23:00:52] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [23:00:52] Creating new server instance...
+     [23:00:52] Reading server config...
+     [23:00:52] Starting server...
+Info [23:00:52] Compatible clients: 1.8.x-1.12.x
+Warn [23:00:52] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [23:00:52] Loaded 789 crafting recipes
+Warn [23:00:52] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [23:00:52] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [23:00:52] Loaded 1.12.2 380 recipe book
+     [23:00:52] Loaded 67 furnace recipes and 66 fuels
+     [23:00:52] Loaded 49 brewing recipes
+Warn [23:00:52] Failed to load scoreboard from "world/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [23:00:52] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [23:00:52] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [23:00:52] -- Loading Plugins --
+     [23:00:52] [Core] Initialised!
+     [23:00:52] [ChatLog] Initialized ChatLog v.3
+     [23:00:52] -- Loaded 2 Plugins --
+     [23:00:53] Preparing spawn (world): 0.50% (2/400; 1.84 chunks / sec)
+     [23:00:54] Preparing spawn (world): 2.00% (8/400; 5.99 chunks / sec)
+     [23:00:56] Preparing spawn (world): 4.25% (17/400; 8.19 chunks / sec)
+     [23:00:57] Preparing spawn (world): 6.75% (27/400; 9.94 chunks / sec)
+     [23:00:58] Preparing spawn (world): 11.50% (46/400; 17.38 chunks / sec)
+     [23:00:59] Preparing spawn (world): 16.00% (64/400; 17.96 chunks / sec)
+     [23:01:00] Preparing spawn (world): 20.25% (81/400; 14.20 chunks / sec)
+     [23:01:01] Preparing spawn (world): 25.25% (101/400; 19.96 chunks / sec)
+     [23:01:02] Preparing spawn (world): 30.25% (121/400; 16.74 chunks / sec)
+     [23:01:03] Preparing spawn (world): 35.00% (140/400; 17.37 chunks / sec)
+     [23:01:04] Preparing spawn (world): 40.00% (160/400; 20.00 chunks / sec)
+     [23:01:05] Preparing spawn (world): 43.50% (174/400; 14.00 chunks / sec)
+     [23:01:06] Preparing spawn (world): 47.75% (191/400; 16.97 chunks / sec)
+     [23:01:07] Preparing spawn (world): 52.25% (209/400; 16.44 chunks / sec)
+     [23:01:08] Preparing spawn (world): 55.75% (223/400; 13.97 chunks / sec)
+     [23:01:09] Preparing spawn (world): 59.50% (238/400; 13.64 chunks / sec)
+     [23:01:10] Preparing spawn (world): 68.00% (272/400; 33.83 chunks / sec)
+     [23:01:11] Preparing spawn (world): 79.25% (317/400; 44.73 chunks / sec)
+     [23:01:12] Preparing spawn (world): 88.75% (355/400; 37.96 chunks / sec)
+     [23:01:13] Preparing spawn (world): 99.25% (397/400; 40.62 chunks / sec)
+     [23:01:13] Startup complete, took 21579ms!
+     [23:04:08] Shutting down server...
+     [23:04:08] [Core] Disabling...
+     [23:04:08] Cleaning up...
+     [23:04:08] Shutdown successful!
+     [23:04:08] --- Stopped Log ---

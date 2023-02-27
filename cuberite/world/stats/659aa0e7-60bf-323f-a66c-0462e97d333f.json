@@ -1,0 +1,18 @@
+{
+	"DataVersion" : 2566,
+	"stats" : 
+	{
+		"custom" : 
+		{
+			"cuberite:achievement.openInventory" : 2,
+			"damage_taken" : 570,
+			"deaths" : 2,
+			"drop" : 0,
+			"fall_one_cm" : 12577,
+			"leave_game" : 2,
+			"play_one_minute" : 10958,
+			"time_since_death" : 138,
+			"walk_one_cm" : 9481
+		}
+	}
+}
